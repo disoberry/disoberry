@@ -34,6 +34,9 @@
   <a href="https://www.opengl.org/" target="_blank"> 
     <img src="https://www.opengl.org/favicon.ico" alt="opengl" width="40" height="40"/> 
   </a>
+  <a href="https://godotengine.org/" target="_blank"> 
+    <img src="https://godotengine.org/favicon.ico" alt="godotengine" width="40" height="40"/> 
+  </a>
   
 </p>
 
