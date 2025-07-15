@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Game engine which can be switched between Voxel and Normal Graphics**
 
-- 🌱 I’m currently learning **Java, C#, C++**
+- 🌱 I’m currently learning **Python, C#, C++**
 
 - 👯 I’m looking to collaborate on **interesting games**
 
@@ -25,9 +25,6 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
-  <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://www.java.com/favicon.ico" alt="java" width="40" height="40"/> 
-  </a>
   <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://isocpp.org/favicon.ico" alt="c++" width="40" height="40"/> 
   </a>
