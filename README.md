@@ -28,7 +28,6 @@
   
   <!-- OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" alt="opensuse" width="40" height="40"/>
 </p>
 
 ---
