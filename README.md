@@ -34,7 +34,9 @@
   <a href="https://godotengine.org/" target="_blank"> 
     <img src="https://godotengine.org/favicon.ico" alt="godotengine" width="40" height="40"/> 
   </a>
-  
+  <a href="https://www.sfml-dev.org/" target="_blank"> 
+    <img src="https://godotengine.org/favicon.ico" alt="sfml" width="40" height="40"/> 
+  </a>
 </p>
 
 <p align= "center">
