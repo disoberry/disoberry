@@ -22,19 +22,19 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">  
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
-  <a href="https://isocpp.org/" target="_blank"> 
+  <a href="https://isocpp.org/" target="_blank">
     <img src="https://isocpp.org/favicon.ico" alt="c++" width="40" height="40"/> 
   </a>
-  <a href="https://www.opengl.org/" target="_blank"> 
+  <a href="https://www.opengl.org/" target="_blank">
     <img src="https://www.opengl.org/favicon.ico" alt="opengl" width="40" height="40"/> 
   </a>
-  <a href="https://godotengine.org/" target="_blank"> 
+  <a href="https://godotengine.org/" target="_blank">
     <img src="https://godotengine.org/favicon.ico" alt="godotengine" width="40" height="40"/> 
   </a>
-  <a href="https://www.sfml-dev.org/" target="_blank"> 
+  <a href="https://www.sfml-dev.org/" target="_blank">
     <img src="https://www.sfml-dev.org/images/favicon.ico" alt="sfml" width="40" height="40"/> 
   </a>
 </p>
