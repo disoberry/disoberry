@@ -2,7 +2,7 @@
 ### A multifunctional developer from Ukraine, who loves unusual and unique stuff!
 
 - 🔭 I’m currently working on my **Game engine which can be switched between Voxel and Normal Graphics**  
-- 🌱 I’m currently learning **Python, C#, C++**  
+- 🌱 I’m currently learning **Python, C++**  
 - 👯 I’m looking to collaborate on **interesting games**  
 - 📫 How to reach me: **disobey.dev@gmail.com**  
 - ⚡ Fun fact: **I get interested in almost anything that's hard to understand**  
