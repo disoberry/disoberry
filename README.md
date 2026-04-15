@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Game engine which can be switched between Voxel and Normal Graphics**  
 - 🌱 I’m currently learning **Python, C++**  
-- 👯 I’m looking to collaborate on **interesting games**  
+- 👯 I’m looking to collaborate on **interesting simulation involved projects**  
 - 📫 How to reach me: **disobey.dev@gmail.com**  
 - ⚡ Fun fact: **I get interested in almost anything that's hard to understand**  
 
