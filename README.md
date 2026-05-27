@@ -21,13 +21,8 @@
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godotengine" width="40" height="40"/>
-  <img src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg" alt="sfml" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/>
-  
-  <!-- OS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
 </p>
 
 ---
@@ -41,4 +36,4 @@
 ---
 
 [Disoberry](https://github.com/Disoberry)  
-_Last Edited on: 09/17/2025_
+_Last Edited on: 05/27/2026_
