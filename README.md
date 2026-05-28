@@ -29,8 +29,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Disoberry&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disoberry&theme=react&layout=compact" />
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/disoberry?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </p>
 
 ---
